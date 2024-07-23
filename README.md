@@ -19,4 +19,5 @@ The data utilized in this project pertains to different dimensions of British Ai
 4. Summarized KPIs including on-time performance and customer satisfaction.
 5. Actionable insights and strategic recommendations were provided.
 
-![image](https://github.com/user-attachments/assets/6142c29a-d7cc-4106-9158-3a33094d8bb5)
+![image](https://github.com/user-attachments/assets/a9eb57a0-9b8c-46aa-9765-fee9cb58457e)
+
